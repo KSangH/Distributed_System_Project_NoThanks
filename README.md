@@ -1,5 +1,6 @@
 # Distributed_System_Project_NoThanks
-[2021-1] 분산시스템 프로젝트 - NoThanks 보드게임
+[2021-1] 분산시스템 프로젝트 - NoThanks 보드게임 
+Team [김민규, 김상형, 김현섭, 신지우, 이민혁] 
 
 ## 실행방법
 
