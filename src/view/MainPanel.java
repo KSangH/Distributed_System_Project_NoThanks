@@ -67,6 +67,7 @@ public class MainPanel extends JPanel {
             String roomName = JOptionPane.showInputDialog("방 제목을 입력하세요");
             if (roomName == null || roomName.equals(""))
                 return;
+            roomName.replaceAll("#", "");
             client.requestMakeRoom(roomName);
         });
 
